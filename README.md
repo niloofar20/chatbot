@@ -37,10 +37,4 @@ The system combines:
 - Gemini API
 - Pandas
 
-## Status
-
-This project is currently an MVP developed for experimentation, learning, and future academic research.
-
-## Author
-
 Iman Eltejaei
