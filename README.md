@@ -1,4 +1,3 @@
-# chatbot
 # PriceWise AI (MVP)
 
 PriceWise AI is an MVP (Minimum Viable Product) of an Agentic RAG-based pricing strategy chatbot for management decision support.
@@ -37,4 +36,10 @@ The system combines:
 - Gemini API
 - Pandas
 
-Iman Eltejaei
+## Status
+
+This project is currently an MVP developed for experimentation, learning, and future academic research.
+
+## Author
+
+NILOOFAR SHIRI
